@@ -1,0 +1,40 @@
+.question{
+    color:blueviolet;
+    font-style:oblique;
+    text-align:center;
+    border-color: black;
+}
+.name{
+    text-align:center;
+    color: chartreuse;
+    font-size:20px;
+    border: 2px;
+    border-color:chartreuse;
+    border-style: dashed;
+    border-radius: 20px;
+    border-width: 3px;
+    width: 80px;
+    border-inline-color:initial;
+    
+}
+.first{
+    background-color: aqua;
+    border: 3px solid red;
+    width:100px ;
+    height:100px ;
+}
+.second{
+    background-color: aquamarine;
+    border: 3px solid blue;
+    width:100px ;
+    height:100px ;
+}
+.third{
+    background-color: rgb(221, 255, 0);
+    border: 3px solid black;
+    width:250px ;
+    height:250px ;
+}
+.fire{
+    border-radius: 20px;
+}
